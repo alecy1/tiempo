@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alecy1/tiempo/static/css/main.f47eaa38.css",
+    "main.js": "/alecy1/tiempo/static/js/main.7846ca95.js",
+    "static/js/787.f95b3ee8.chunk.js": "/alecy1/tiempo/static/js/787.f95b3ee8.chunk.js",
+    "index.html": "/alecy1/tiempo/index.html",
+    "main.f47eaa38.css.map": "/alecy1/tiempo/static/css/main.f47eaa38.css.map",
+    "main.7846ca95.js.map": "/alecy1/tiempo/static/js/main.7846ca95.js.map",
+    "787.f95b3ee8.chunk.js.map": "/alecy1/tiempo/static/js/787.f95b3ee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f47eaa38.css",
+    "static/js/main.7846ca95.js"
+  ]
+}
